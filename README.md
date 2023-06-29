@@ -1,0 +1,6 @@
+![image](https://github.com/nazarch2000/02-git-03-branch/assets/106932460/294cd2fa-0c9c-4f36-9082-ff3e582bde09)
+![image](https://github.com/nazarch2000/02-git-03-branch/assets/106932460/f2b5c954-8efc-4f7a-9f82-3a56ef5ecb10)
+![image](https://github.com/nazarch2000/02-git-03-branch/assets/106932460/34811297-a94f-420c-aa92-30ec68a1502f)
+![image](https://github.com/nazarch2000/02-git-03-branch/assets/106932460/e33a1ebc-df23-4de9-bf94-c4f72c024337)
+![image](https://github.com/nazarch2000/02-git-03-branch/assets/106932460/23a7f23e-e1f2-49a5-aaca-58e166c1572b)
+![image](https://github.com/nazarch2000/02-git-03-branch/assets/106932460/b8f711ef-2046-485a-ae63-2a6de6f62d69)
